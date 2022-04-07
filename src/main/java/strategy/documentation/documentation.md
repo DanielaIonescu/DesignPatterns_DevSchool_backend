@@ -43,6 +43,7 @@ The Strategy pattern has the following benefits and drawbacks:
    behavior in separate Strategy classes eliminates these conditional
    statements.
 
+
 ##### SOLD from SOLID
 S - Single responsibility principle (a class should have one and only one reason to change)
 
